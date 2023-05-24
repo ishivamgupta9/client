@@ -30,9 +30,7 @@ To use the User Form App client locally, you can follow these steps:
 
 1. Clone the repository: `git clone <repository-url>`
 
-2. Navigate to the project directory: `cd user-form-app-client`
-
-3. Install the dependencies: `npm install`
+2. Install the dependencies: `npm install`
 
 4. Start the development server: `npm start`
 
@@ -42,24 +40,9 @@ To use the User Form App client locally, you can follow these steps:
 
 Feel free to explore the codebase and make any necessary modifications to suit your requirements.
 
-## Contribution
-
-If you would like to contribute to the User Form App client, you can follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch: `git checkout -b my-new-branch`
-
-3. Make your desired changes and commit them: `git commit -am 'Add some feature'`
-
-4. Push the changes to your forked repository: `git push origin my-new-branch`
-
-5. Submit a pull request outlining the changes you have made.
-
-Your contributions are highly appreciated!
 
 ## License
 
 The User Form App client is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms specified in the license.
 
-If you have any questions or concerns, please don't hesitate to reach out. Happy form filling!
+
