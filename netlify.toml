@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/mainForms"
+to = "/src/Home/mainForms.js"
+status = 200
