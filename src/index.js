@@ -16,8 +16,6 @@ root.render(
     <Routes>
       <Route exact path='/' element={<App />}></Route>
       <Route exact path='/mainForms' element={<MainForm />}></Route>
-      <Route exact path='/check' element={<h1>good</h1>}></Route>
-
     </Routes>
   </Router>
 );

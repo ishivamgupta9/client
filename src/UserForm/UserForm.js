@@ -89,7 +89,8 @@ function UserForm() {
         .then((res) => res.json())
         .then((data) =>
           data.message.includes('Successfully')
-            ? navigate('/mainForms')
+            ? window.location.replace('https://main--lustrous-sunflower-df6e95.netlify.app/mainForms')
+//            navigate('https://tired-red-kilt.cyclic.app/form-user')
             : setMessage(data.message)
         )
         .catch((err) => console.log(err));
