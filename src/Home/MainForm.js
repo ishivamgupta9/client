@@ -6,7 +6,7 @@ const MainForm = (props) => {
   const [usersData, setUsersData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:8000/form-user')
+    fetch('https://tired-red-kilt.cyclic.app/form-user')
       .then(response => response.json())
       .then(data => setUsersData(data))
       .catch(err => console.log(err.message));
