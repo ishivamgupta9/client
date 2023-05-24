@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/mainForms"
-to = "/src/Home/MainForms.js"
+from = "/"
+to = "/index.html"
 status = 200
